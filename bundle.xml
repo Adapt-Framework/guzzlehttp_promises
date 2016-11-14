@@ -11,6 +11,9 @@
                 <name>adapt</name>
                 <version>2</version>
             </bundle>
+            <bundle>
+                <name>vendor</name>
+            </bundle>
         </depends_on>
     </bundle>
 </adapt_framework>
