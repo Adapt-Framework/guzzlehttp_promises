@@ -6,6 +6,8 @@
         <type>extension</type>
         <version>1.1.0</version>
         <namespace>\GuzzleHttp\Promise</namespace>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <depends_on>
             <bundle>
                 <name>adapt</name>
