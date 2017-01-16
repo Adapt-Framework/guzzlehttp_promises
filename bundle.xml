@@ -8,6 +8,10 @@
         <namespace>\GuzzleHttp\Promise</namespace>
         <version_status>release</version_status>
         <availability>public</availability>
+        <load_paths>
+            <path>src/</path>
+            <path>test/</path>
+        </load_paths>
         <depends_on>
             <bundle>
                 <name>adapt</name>
